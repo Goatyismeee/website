@@ -1,3 +1,5 @@
+// Main component that is rendered on homepage (index.html)
+
 import ButtonGradient from "./assets/svg/ButtonGradient";
 import Benefits from "./components/Benefits";
 import Collaboration from "./components/Collaboration";

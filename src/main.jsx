@@ -6,6 +6,7 @@ import App from "./App.jsx";
 import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
+  // Strict mode checks for potential problems in app, such as deprecated packages, unsafe life cycle methods, API usage...
   <React.StrictMode>
     <Router>
       <App />
